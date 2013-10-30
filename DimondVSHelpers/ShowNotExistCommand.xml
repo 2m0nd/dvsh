@@ -56,28 +56,28 @@
             <param term='handled'>Informs the caller if the command was handled or not.</param>
             <seealso class='Exec' />
         </member>
-        <member name="T:DimondVSHelpers.ResourceShowNotExistCommand">
+        <member name="T:DimondVSHelpers.Resources">
             <summary>
               A strongly-typed resource class, for looking up localized strings, etc.
             </summary>
         </member>
-        <member name="P:DimondVSHelpers.ResourceShowNotExistCommand.ResourceManager">
+        <member name="P:DimondVSHelpers.Resources.ResourceManager">
             <summary>
               Returns the cached ResourceManager instance used by this class.
             </summary>
         </member>
-        <member name="P:DimondVSHelpers.ResourceShowNotExistCommand.Culture">
+        <member name="P:DimondVSHelpers.Resources.Culture">
             <summary>
               Overrides the current thread's CurrentUICulture property for all
               resource lookups using this strongly typed resource class.
             </summary>
         </member>
-        <member name="P:DimondVSHelpers.ResourceShowNotExistCommand.OpenBinaryCommandImage">
+        <member name="P:DimondVSHelpers.Resources.OpenBinaryCommandImage">
             <summary>
               Looks up a localized resource of type System.Drawing.Bitmap.
             </summary>
         </member>
-        <member name="P:DimondVSHelpers.ResourceShowNotExistCommand.ShowNotExistCommandImage">
+        <member name="P:DimondVSHelpers.Resources.ShowNotExistCommandImage">
             <summary>
               Looks up a localized resource of type System.Drawing.Bitmap.
             </summary>
