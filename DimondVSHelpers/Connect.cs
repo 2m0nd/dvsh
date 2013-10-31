@@ -198,7 +198,7 @@ namespace DimondVSHelpers
             foreach (var projectItem in solutionFiles)
             {
                 var item = (projectItem as ProjectItem);
-                var fileNames = item.get_FileNames(0);
+                var fileNames = item.FileNames[0];
                 var isExist = File.Exists(fileNames);
                 if (!isExist && !fileNames.EndsWith("\\") && fileNames.Contains("\\"))
                 {
