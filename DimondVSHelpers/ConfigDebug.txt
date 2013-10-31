@@ -1,0 +1,8 @@
+﻿exe:
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe
+
+Arguments:
+/resetaddin DimondVSHelpers.Connect
+
+working dir:
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\

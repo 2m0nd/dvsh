@@ -135,6 +135,7 @@
     <Content Include="DimondVSHelpers.AddIn">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="ConfigDebug.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
   <PropertyGroup>
